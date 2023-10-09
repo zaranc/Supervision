@@ -1,0 +1,4 @@
+Declare a file pointer, FILE *fp.
+Open the file using the fopen() function. Specify the file name and file opening mode as “a+“. ...
+Write to the file using functions like fprintf(), fputs() etc.
+Close the file using the fclose() function.
